@@ -1,0 +1,17 @@
+[
+    {
+        "usuario": "admin",
+        "contraseña": "1234",
+        "nombre": "Administrador"
+    },
+    {
+        "usuario": "johana",
+        "contraseña": "1234",
+        "nombre": "Johanna Castro"
+    },
+    {
+        "usuario": "cliente",
+        "contraseña": "1234",
+        "nombre": "Cliente Restaurante"
+    }
+]

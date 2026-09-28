@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "categoria": "Comida rápida",
+        "precio": 3.5,
+        "cantidad": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza",
+        "categoria": "Comida rápida",
+        "precio": 5.0,
+        "cantidad": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Jugo natural",
+        "categoria": "Bebidas",
+        "precio": 2.0,
+        "cantidad": 10
+    }
+]
